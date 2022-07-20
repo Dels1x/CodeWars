@@ -2,10 +2,32 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        int[] arr = {38, 6, 17, 36, 5, 31, 33, 25, 29, 10, 1, 18, 12, 10, 21, 17, 11, 19, 24, 0, 23, 31, 32, 1, 9, 15, 29, 11, 28, 16, 16, 2, 25, 3, 1, 8, 23, 26, 11, 9, 13};
+        int[] arr = {3, 2, 3};
 
-        System.out.println(Arrays.toString(EnoughIsEnough.deleteNth(arr, 2)));
+        System.out.println(Arrays.toString(Solution.twoSum(arr, 6)));
 
 
     }
 }
+
+class Solution {
+    static public int[] twoSum(int[] nums, int target) {
+        for(int i = 0; i < nums.length; i++) {
+            for(int j = 0; j < nums.length; j++) {
+                if(i != j && nums[i] + nums[j] == target) {
+                    return new int[] {i, j};
+                }
+            }
+        }
+
+        return new int[2];
+    }
+}
+
+/*
+    Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+    You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+    You can return the answer in any order.
+ */
