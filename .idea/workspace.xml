@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="057cc068-f6f7-429a-85a1-9266ab806352" name="Changes" comment="LeetCode: 2. i used linkedlists instead of nodelists lol">
+    <list default="true" id="057cc068-f6f7-429a-85a1-9266ab806352" name="Changes" comment="CodeWars: &lt;5kyu&gt; Phone Directory&#10;&#10;https://www.codewars.com/kata/56baeae7022c16dd7400086e/train/java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658396056257</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="LeetCode: 2. i used linkedlists instead of nodelists lol">
+      <created>1658396253358</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658396253358</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
