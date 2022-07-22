@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="057cc068-f6f7-429a-85a1-9266ab806352" name="Changes" comment="CodeWars: &lt;5kyu&gt; Phone Directory&#10;&#10;https://www.codewars.com/kata/56baeae7022c16dd7400086e/train/java">
+    <list default="true" id="057cc068-f6f7-429a-85a1-9266ab806352" name="Changes" comment="CodeWars: &lt;5kyu&gt; Phone Directory 1/2 i'll finish it tomorrow&#10;&#10;https://www.codewars.com/kata/56baeae7022c16dd7400086e/train/java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PhoneDir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PhoneDir.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658396253358</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="CodeWars: &lt;5kyu&gt; Phone Directory 1/2 i'll finish it tomorrow&#10;&#10;https://www.codewars.com/kata/56baeae7022c16dd7400086e/train/java">
+      <created>1658437070303</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658437070303</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +130,7 @@
     <MESSAGE value="CodeWars: &#10;Delete occurrences of an element if it occurs more than n times&#10;&#10;https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/java" />
     <MESSAGE value="LeetCode: 1. Two Sum https://leetcode.com/problems/two-sum/submissions/&#10;&#10;https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/java" />
     <MESSAGE value="LeetCode: 2. i used linkedlists instead of nodelists lol" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode: 2. i used linkedlists instead of nodelists lol" />
+    <MESSAGE value="CodeWars: &lt;5kyu&gt; Phone Directory 1/2 i'll finish it tomorrow&#10;&#10;https://www.codewars.com/kata/56baeae7022c16dd7400086e/train/java" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWars: &lt;5kyu&gt; Phone Directory 1/2 i'll finish it tomorrow&#10;&#10;https://www.codewars.com/kata/56baeae7022c16dd7400086e/train/java" />
   </component>
 </project>
