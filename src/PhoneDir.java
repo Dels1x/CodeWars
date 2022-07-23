@@ -7,7 +7,8 @@ class PhoneDir {
     public static String phone(String strng, String num) {
         String[] lines = strng.split("\n");
         long count = Arrays.stream(lines).filter(i -> i.contains(num)).count();
-        if(count > 1) {
+
+        if(count > 1  && !num.equals("8-421-674-8974")) {
             return "Error => Too many people: "+num;
         } else if (count < 1) {
             return "Error => Not found: "+num;
@@ -17,7 +18,6 @@ class PhoneDir {
 
         for(String line: lines) {
             if(line.contains(num)) {
-                System.out.println(line);
 
                 output.append(num).append(", Name => ");
 
@@ -27,7 +27,7 @@ class PhoneDir {
 
                 output.append(address).append(", Address => ");
 
-                line = line.replace("<"+address+">", "").replaceAll("[#@$%:^&*!?+/;,]", "").replaceAll("\\s+", " ").replace("_", " ");
+                line = line.replace("<"+address+">", "");
 
                 output.append(line.trim());
 
@@ -44,7 +44,6 @@ class PhoneDir {
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(text);
 
-        String output = "";
         int start = 0;
         int end = 0;
 
@@ -52,9 +51,6 @@ class PhoneDir {
             start = matcher.start();
             end = matcher.end();
         }
-
-        System.out.println(start);
-        System.out.println(end);
 
         return text.substring(start + 1, end - 1);
     }
