@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="057cc068-f6f7-429a-85a1-9266ab806352" name="Changes" comment="CodeWars: &lt;6kyu&gt; What century is it?&#10;&#10;https://www.codewars.com/kata/52fb87703c1351ebd200081f/train/java">
+    <list default="true" id="057cc068-f6f7-429a-85a1-9266ab806352" name="Changes" comment="CodeWars: &lt;6kyu&gt; Two Sum&#10;&#10;https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658580990648</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="CodeWars: &lt;6kyu&gt; Two Sum&#10;&#10;https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java">
+      <created>1658664879830</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658664879830</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +161,7 @@
     <MESSAGE value="CodeWars: &lt;5kyu&gt; Phone Directory 2/2 this kata is broken i give up&#10;&#10;https://www.codewars.com/kata/56baeae7022c16dd7400086e/train/java" />
     <MESSAGE value="CodeWars: &lt;6kyu&gt; Which are in?&#10;&#10;https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/java" />
     <MESSAGE value="CodeWars: &lt;6kyu&gt; What century is it?&#10;&#10;https://www.codewars.com/kata/52fb87703c1351ebd200081f/train/java" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWars: &lt;6kyu&gt; What century is it?&#10;&#10;https://www.codewars.com/kata/52fb87703c1351ebd200081f/train/java" />
+    <MESSAGE value="CodeWars: &lt;6kyu&gt; Two Sum&#10;&#10;https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWars: &lt;6kyu&gt; Two Sum&#10;&#10;https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java" />
   </component>
 </project>
