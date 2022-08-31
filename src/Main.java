@@ -1,20 +1,34 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println(Kata2.generateShape(5));
+        System.out.println(LongestConsec.longestConsec(new String[] {"tree", "foling", "trashy", "blue", "abcdef", "uvwxyz"}, 2));
 
     }
-
 }
 
-class Kata2 {
-    public static String generateShape(int n) {
-        String output = "";
+class LongestConsec {
 
-        for(int i = 0; i < n; i++) {
-            output += "+".repeat(n).concat("\n");
+    public static String longestConsec(String[] strarr, int k) {
+        if(strarr.length == 0 || k > strarr.length || k < 0) {
+            return "";
         }
 
-        return output.substring(0, output.length()-1);
+        int bestLength = 0;
+        String bestString = "";
+        String currentString;
+
+        for(int i = 0; i < strarr.length - k + 1; i++) {
+            currentString = "";
+            for(int j = 0; j < k; j++) {
+                currentString = currentString.concat(strarr[i+j]);
+            }
+
+            if(currentString.length() > bestLength) {
+                bestLength = currentString.length();
+                bestString = currentString;
+            }
+        }
+
+        return bestString;
     }
 }
