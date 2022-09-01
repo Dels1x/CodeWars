@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="057cc068-f6f7-429a-85a1-9266ab806352" name="Changes" comment="CodeWars: &lt;7kyu&gt; Build a square&#10;&#10;https://www.codewars.com/kata/59a96d71dbe3b06c0200009c/train/java">
+    <list default="true" id="057cc068-f6f7-429a-85a1-9266ab806352" name="Changes" comment="CodeWars: &lt;6kyu&gt; Consecutive strings&#10;&#10;https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/java">
+      <change afterPath="$PROJECT_DIR$/src/RgbToHex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661695194699</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="CodeWars: &lt;6kyu&gt; Consecutive strings&#10;&#10;https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/java">
+      <created>1661971250201</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1661971250201</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +178,7 @@
     <MESSAGE value="CodeWars: &lt;6kyu&gt; What century is it?&#10;&#10;https://www.codewars.com/kata/52fb87703c1351ebd200081f/train/java" />
     <MESSAGE value="CodeWars: &lt;6kyu&gt; Two Sum&#10;&#10;https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/java" />
     <MESSAGE value="CodeWars: &lt;7kyu&gt; Build a square&#10;&#10;https://www.codewars.com/kata/59a96d71dbe3b06c0200009c/train/java" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWars: &lt;7kyu&gt; Build a square&#10;&#10;https://www.codewars.com/kata/59a96d71dbe3b06c0200009c/train/java" />
+    <MESSAGE value="CodeWars: &lt;6kyu&gt; Consecutive strings&#10;&#10;https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/java" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWars: &lt;6kyu&gt; Consecutive strings&#10;&#10;https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/java" />
   </component>
 </project>
